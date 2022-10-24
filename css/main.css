@@ -1,0 +1,13 @@
+.Css-projects{
+    /* background-image: url(../Imges/Header.jpg); */
+    background-color:rgb(39, 37, 37);
+    background-size: cover;
+    height: 100vh;
+}
+.container .items img{
+    border: 20px solid white;
+    border-radius: 20px;
+}
+.hambozoo{
+    height: 240px;
+}
